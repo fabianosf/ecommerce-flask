@@ -1,6 +1,6 @@
 # Projeto Web com Flask(Ecommerce) 
 
-## Packages
+## Pacotes Utilizados
 bcrypt==4.0.1
 blinker==1.6.2
 click==8.1.3
